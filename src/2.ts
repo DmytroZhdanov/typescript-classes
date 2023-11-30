@@ -1,16 +1,15 @@
 /*
-  Ваше завдання полягатиме у створенні двох класів – Employee та Manager.
+  Your task is to create two classes - Employee and Manager.
 
-  Клас Employee повинен включати:
+  The Employee class should include:
 
-  властивість name, яка буде доступна всім.
-  властивість department, яка буде доступна лише всередині класу Employee.
-  salary, яке буде доступне лише всередині класу Employee та його підкласів.
+  a 'name' property accessible to everyone.
+  a 'department' property accessible only within the Employee class.
+  a 'salary' property accessible only within the Employee class and its subclasses.
 
+  The Manager class should be a subclass of the Employee class
 
-  Клас Manager повинен бути підклас класу Employee
-
-  Необхідно реалізувати в класі Manager конструктор, який викликатиме конструктор суперкласу та збільшуватиме salary на 10000.
+  You need to implement a constructor in the Manager class that calls the superclass constructor and increases the salary by 10000.
 
 */
 
