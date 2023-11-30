@@ -1,7 +1,7 @@
 /*
-  Клас Student, який містить три властивості: name, age та grade. 
-  Замість того, щоб оголошувати ці властивості в тілі класу, потім у конструкторі, і нарешті надавати їм значення, 
-  напишіть скорочену ініціалізацію.
+  A Student class containing three properties: name, age, and grade.
+  Instead of declaring these properties in the body of the class, then in the constructor, and finally assigning them values,
+  write a shorter initialization.
 */
 
 class Student {
